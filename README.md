@@ -19,5 +19,6 @@ GitHub Pages only serves from the root domain when the repository name matches t
 The code is already configured correctly for root deployment (no basePath). You just need to rename the repository on GitHub from `sandrazariccv` to `sandrazaric.github.io`.
 
 To start locally:
+npm install
 npm run build
 npx serve@latest out
