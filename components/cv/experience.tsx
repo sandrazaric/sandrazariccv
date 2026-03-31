@@ -14,7 +14,7 @@ const experiences = [
       "Integrated REST APIs to display real-time system status, workload execution data, and operational metrics",
       "Wrote unit and end-to-end tests using Cypress to ensure stability and reliability",
     ],
-    technologies: ["Vue.js", "Vuetify", "Vuex", "Axios", "REST APIs", "Cypress"],
+    technologies: ["Vue.js", "Vuetify", "Vuex", "Axios", "REST APIs", "Cypress", "Next.js"],
     link: "#",
   },
   {
